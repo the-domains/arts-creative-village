@@ -1,4 +1,3 @@
-layout_spectrum: 0.6874642770271748
 typography_spectrum: 0.8796775178052485
 color:
   brandStrength: 0.6246079464908689
@@ -11,4 +10,6 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
+layout_spectrum: 0.6874642770271748
 name: Arts Creative Village
+title: Vietnamese Arts and Culture
