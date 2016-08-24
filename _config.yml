@@ -12,4 +12,8 @@ color:
     - '#DD403A'
 layout_spectrum: 0.6874642770271748
 name: Arts Creative Village
+navigation:
+  - name: Paint With Fire Using This Virtual Reality App
+    id: c18f055c-cf0e-4486-8a32-4356ef089db7
+    type: content
 title: Vietnamese Arts and Culture
