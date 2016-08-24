@@ -1,9 +1,8 @@
 ---
-datePublished: '2016-08-24T12:33:38.147Z'
+datePublished: '2016-08-24T12:42:49.521Z'
 sourcePath: _posts/2016-05-07-paint-with-fire-using-this-virtual-reality-app.md
 inFeed: true
-isBasedOnUrl: 'http://www.vocativ.com/316058/paint-with-fire-using-this-virtual-reality-app/'
-hasPage: false
+hasPage: true
 keywords:
   - dropouthillary
   - demine
@@ -17,7 +16,7 @@ keywords:
   - bernie
 related: []
 author: []
-dateModified: '2016-08-24T12:33:37.072Z'
+dateModified: '2016-08-24T12:42:48.356Z'
 title: Paint With Fire Using This Virtual Reality App
 app_links: []
 publisher:
@@ -32,6 +31,7 @@ inLanguage: en
 inNav: false
 via: {}
 starred: false
+url: paint-with-fire-using-this-virtual-reality-app/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
