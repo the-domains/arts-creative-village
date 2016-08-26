@@ -1,16 +1,16 @@
-typography_spectrum: 0.8796775178052485
+layout_spectrum: 0.7386425097938627
+typography_spectrum: 0.9973589184228331
 color:
-  brandStrength: 0.6246079464908689
-  lightness: 0.8390032260213047
-  saturation: 0.14815299189649522
-  rhythmicContrast: 0.3317439875099808
+  brandStrength: 0.044146085157990456
+  lightness: 0.060401472728699446
+  saturation: 0.9211488387081772
+  rhythmicContrast: 0.2172913965769112
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-layout_spectrum: 0.6874642770271748
+    - '#36362C'
+    - '#5D917D'
+    - '#A8AD80'
+    - '#E6D4A7'
+    - '#825534'
 name: Arts Creative Village
 navigation:
   - name: Paint With Fire Using This Virtual Reality App
