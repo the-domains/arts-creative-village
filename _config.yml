@@ -12,4 +12,8 @@ color:
     - '#825534'
 layout_spectrum: 0.7386425097938627
 name: Arts Creative Village
+navigation:
+  - name: About Us
+    id: 4397b183-1522-461d-bea2-bce231ad79fd
+    type: content
 title: Vietnamese Arts and Culture
